@@ -1,1 +1,3 @@
-6
+Six file starts here.
+This is the main version.
+Main branch is learning Git.
